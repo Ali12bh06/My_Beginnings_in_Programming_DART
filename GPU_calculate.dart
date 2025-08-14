@@ -5,7 +5,7 @@ void main() {
   if (GPA <= 2.0) {
     print("$user! GPU is very low : $GPA");
   } else if (GPA > 2.0 && GPA <= 4.0) {
-    print("$user! GPU is good : $GPA");
+    print("$user! GPA is good : $GPA");
   } else {
     print("!!!");
   }

@@ -1,4 +1,4 @@
-void main() { 
+void main() {
   double GPA = sumGPA(99, 87, 100, 66, 100);
   String user = "Ahmed";
 

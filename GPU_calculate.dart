@@ -3,7 +3,7 @@ void main() {
   String user = "Ahmed";
 
   if (GPA <= 2.0) {
-    print("$user! GPU is very low : $GPA");
+    print("$user! GPA is very low : $GPA");
   } else if (GPA > 2.0 && GPA <= 4.0) {
     print("$user! GPA is good : $GPA");
   } else {
